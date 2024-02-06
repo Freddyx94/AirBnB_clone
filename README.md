@@ -73,4 +73,3 @@ Python Scripts
 15. Update
 16. Update from dictionary
 17. Unittests for the Console!
--- INSERT --                                                                75,30         Bot
